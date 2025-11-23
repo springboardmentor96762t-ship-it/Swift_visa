@@ -1,0 +1,21 @@
+# virtual environments
+venv*/
+*.venv
+.env
+
+# python cache files
+__pycache__/
+*.pyc
+
+# large or generated files
+*.npy
+*.bin
+chunks.jsonl
+processed/**/*.jsonl
+raw/**/*.pdf
+
+# editor / system files
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
