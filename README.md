@@ -1,21 +1,89 @@
-# Swift_visa
-This the repository where you should upload the files for the tasks
+STEP 1 — Loading and Extracting Text from PDFs
 
+The function load_multiple_pdfs():
 
-Hello everyone,
+Accepts a list of PDF file paths
 
-I have created the GitHub repository for your Swift_visa project tasks.  
-Please follow these steps to submit your assignments:
+Uses pypdf.PdfReader to extract text from each page
 
-1. Fork the repository to your own GitHub account.
-2. Create a folder named <your_name_milestone_1> inside the repo.
-3. Upload:
-   - Raw files
-   - Python scripts (preprocessing, chunking, embeddings, etc.)
-   - Any output files
-   - A README explaining your work
-4. Commit and push to your fork.
-5. Create a Pull Request back to the main repository with the title:
-   "Milestone 1 – <Your Name>"
+Appends and combines all PDFs into one long text string
 
-I will review your submission through the Pull Request.
+Logs:
+
+The file being read
+
+Page extraction process
+
+Length of extracted text
+
+STEP 2 — Preprocessing
+
+The preprocess() function:
+
+Converts text to lowercase
+
+Removes unnecessary whitespaces
+
+Removes special characters except . , ?
+
+Logs:
+
+Original vs cleaned text length
+
+This ensures the data is clean before chunking and embedding.
+
+STEP 3 — Chunking
+
+The chunk_text() function:
+
+Divides text into chunks of 500 characters
+
+Uses 100-character overlap to preserve context
+
+Returns a list of text chunks
+
+Logs:
+
+Total chunks generated
+
+Chunking is important because transformer models can only handle limited sequence length.
+
+STEP 4 — Embedding
+
+The generate_embeddings() function:
+
+Loads the model: all-MiniLM-L6-v2
+
+Converts each chunk into a vector representation
+
+Each embedding has a shape (384,)
+
+Meaning: each chunk is encoded into a 384-dimensional vector
+
+Logs:
+
+Total vectors
+
+Dimension of each vector
+
+Embeddings allow semantic understanding of the text.
+
+STEP 5 — Building FAISS Index
+
+The save_faiss_index() function:
+
+Converts list of embeddings into a 2D numpy array (chunks × 384)
+
+Creates a FAISS index using L2 distance
+
+Stores the index in visa_index.faiss
+
+Logs:
+
+Vector dimension
+
+Count of vectors
+
+Index file name
+
+FAISS indexing allows fast similarity search for future question-answering tasks

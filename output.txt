@@ -1,0 +1,53 @@
+
+STEP 1: Loading PDFs...
+Loading: UK VISA.pdf
+  Extracting Page 1...
+  Extracting Page 2...
+  ✔ Finished UK VISA.pdf, length = 2869 characters
+
+Loading: USA VISA.pdf
+  Extracting Page 1...
+  Extracting Page 2...
+  ✔ Finished USA VISA.pdf, length = 1790 characters
+
+Loading: CANADA VISA.pdf
+  Extracting Page 1...
+  Extracting Page 2...
+  ✔ Finished CANADA VISA.pdf, length = 2450 characters
+
+Loading: SCHENGEN VISA.pdf
+  Extracting Page 1...
+  ✔ Finished SCHENGEN VISA.pdf, length = 1931 characters
+
+Loading: AUSTRALIA VISA.pdf
+  Extracting Page 1...
+  ✔ Finished AUSTRALIA VISA.pdf, length = 1086 characters
+
+All PDFs loaded successfully!
+
+All PDFs Loaded!
+
+
+STEP 2: Preprocessing Text
+Clean text length: 8760
+Clean text preview:
+  documents 1. appointment letter 2. application form 3. checklist 4. covering 5. flight and hotel literary if possible 6. personal bank statements of last 6 months with bank stamp and signature for salaried person  a. company noc letter b. payslip last 6 months c. company id card d. any finance support documents like fd, investment, etc. for retired person  a. retired person proof b. pension slips last 6 months c. any fd investment etc. for selfemployed  a. company bank statement of last 6 month   
+
+
+STEP 3: Chunking Text
+Total chunks created: 22
+First chunk preview:
+  documents 1. appointment letter 2. application form 3. checklist 4. covering 5. flight and hotel literary if possible 6. personal bank statements of last 6 months with bank stamp and signature for salaried person  a. company noc letter b. payslip last 6 months c. company id card d. any finance supp
+
+
+STEP 4: Generating Embeddings
+Batches: 100%|█████████████████████████████████████████████████████████████████████████████████| 1/1 [00:00<00:00,  1.88it/s]
+Total embeddings created: 22
+Embedding vector (first 10 numbers):
+ [ 0.02632808  0.0285508  -0.01137987 -0.03069652 -0.03461347  0.0902392
+  0.00705299  0.04026634 -0.07181188 -0.04127809]
+
+Embeddings matrix shape: (22, 384)
+
+STEP 5: Saving FAISS Index
+FAISS index saved as visa_index.faiss
