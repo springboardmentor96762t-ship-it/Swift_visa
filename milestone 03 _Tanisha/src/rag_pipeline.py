@@ -15,7 +15,7 @@ from sentence_transformers import SentenceTransformer
 
 import google.generativeai as genai
 
-# Paths
+# Paths...
 CHUNKS_PATH = Path("models/chunks.pkl")
 FAISS_INDEX_PATH = Path("models/faiss.index")
 RESULTS_PATH = Path("outputs/results.json")
