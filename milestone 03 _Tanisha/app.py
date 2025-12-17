@@ -6,7 +6,7 @@ import plotly.express as px
 # CRITICAL: Clear Streamlit cache
 st.cache_data.clear()
 
-# Page configuration
+# Page configuration,
 st.set_page_config(
     page_title="SwiftVisa - Your Travel Companion",
     page_icon="✈️",

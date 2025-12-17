@@ -21,7 +21,7 @@ FAISS_INDEX_PATH = Path("models/faiss.index")
 RESULTS_PATH = Path("outputs/results.json")
 USER_PROFILE_PATH = Path("user_profile.json")
 
-# Embedding model
+# Embedding model...
 EMBED_MODEL_NAME = "all-MiniLM-L6-v2"
 
 # Load .env
