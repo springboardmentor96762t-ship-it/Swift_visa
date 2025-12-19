@@ -1,0 +1,149 @@
+[
+  {
+    "query_id": "e3a313fe",
+    "timestamp": "2025-12-05T17:21:10.313399",
+    "query": "I am moving to Toronto, I have a 3 year old child, does she need a study permit?",
+    "answer": "No, your 3-year-old child does not need a study permit if she is accompanying you and you are authorized to study or work in Canada, or if she is a refugee or refugee claimant, or if you are a Canadian citizen or permanent resident. However, having a valid study permit may provide additional benefits.",
+    "confidence_score": 0.612
+  },
+  {
+    "query_id": "45303632",
+    "timestamp": "2025-12-05T17:23:20.435955",
+    "query": "I have been admitted to UCLA and I am supposed to start college from February, but I am planning to make the move in early January. So can I enter USA before my program starts?",
+    "answer": "As a new student, you can enter the United States up to 30 days before the start date of your course of study. Since your program starts in February, you can enter the USA as early as January 3rd.",
+    "confidence_score": 0.4914
+  },
+  {
+    "query_id": "663b068e",
+    "timestamp": "2025-12-05T17:24:02.957472",
+    "query": "I am moving to London and planning to start a bakery, what will be required for the VISA?",
+    "answer": "I don't have that information. The provided context does not mention requirements for starting a business, such as a bakery, in the UK. It primarily discusses visit visas and permission to stay as a visitor.",
+    "confidence_score": 0.4559
+  },
+  {
+    "query_id": "ee787f37",
+    "timestamp": "2025-12-05T17:25:47.687214",
+    "query": "I am planning to visit London for 20 days, how do i apply for visa?",
+    "answer": "I don't have that information. The provided context explains the rules and guidelines for issuing visas, but it does not provide a step-by-step guide on how to apply for a visa.",
+    "confidence_score": 0.4875
+  },
+  {
+    "query_id": "c91b443a",
+    "timestamp": "2025-12-05T17:25:59.298470",
+    "query": "what are the rules?",
+    "answer": "The rules are not explicitly stated in the provided context. However, the context appears to outline specific conditions and requirements for various visa applications, including exemptions, study permits, and work permits, as well as rules for arts, entertainment, or sporting professionals. For specific rules, it would be necessary to refer to the relevant visa application guidelines.",
+    "confidence_score": 0.3063
+  },
+  {
+    "query_id": "fb106993",
+    "timestamp": "2025-12-05T17:41:55.742615",
+    "query": "I am moving to Toronto for work, I have a 3 year old child, does she need a study permit?",
+    "answer": "No, your 3-year-old child does not need a study permit if she is accompanying you and you are authorized to work in Canada, as she would be attending preschool. However, having a valid study permit may provide additional benefits, such as access to social services.",
+    "confidence_score": 0.6107
+  },
+  {
+    "query_id": "53d5ac2c",
+    "timestamp": "2025-12-05T17:42:09.957834",
+    "query": "What are visa requirements to start a business in London?",
+    "answer": "To start a business in the UK with an Innovator Founder visa, you must: \n\u2022 have a new and innovative business idea that is different from anything else on the market\n\u2022 have your business or business idea endorsed by an approved body\n\u2022 meet the other eligibility requirements, including knowledge of English and providing required documents.",
+    "confidence_score": 0.5297
+  },
+  {
+    "query_id": "1b710567",
+    "timestamp": "2025-12-05T17:42:36.318335",
+    "query": "I need to apply for B2 visa how do i do it",
+    "answer": "To apply for a B2 visa, you should follow these steps: \n\n1. Complete the Online Visa Application, Form DS-160, and print the application form confirmation page to bring to your interview.\n2. Upload your photo while completing the online Form DS-160, ensuring it meets the Photograph Requirements.\n3. Schedule an interview at the U.S. Embassy or Consulate in the country where you live.\n4. Attend your visa interview, where a consular officer will determine whether you are qualified to receive a B2 visa.\n\nPlease consult the instructions on the embassy or consulate website for specific requirements, as the order and completion of these steps may vary.",
+    "confidence_score": 0.4884
+  },
+  {
+    "query_id": "ebdb4e40",
+    "timestamp": "2025-12-05T17:43:05.381524",
+    "query": "I have an ILETS score of 5.4, can I study in Canada?",
+    "answer": "I don't have that information. The provided context does not mention IELTS scores or their requirements for studying in Canada.",
+    "confidence_score": 0.5701
+  },
+  {
+    "query_id": "787a0e34",
+    "timestamp": "2025-12-05T17:43:27.330937",
+    "query": "what are the requirements to get a study visa for UK, I am 16 years old",
+    "answer": "To apply for a Student visa in the UK at 16 years old, you must: \n\u2022 have been offered a place on a course by a licensed student sponsor \n\u2022 have enough money to support yourself and pay for your course \n\u2022 be able to speak, read, write, and understand English \n\u2022 have consent from your parents - you\u2019ll need evidence of this when you apply",
+    "confidence_score": 0.714
+  },
+  {
+    "query_id": "32b381ad",
+    "timestamp": "2025-12-05T17:44:24.785143",
+    "query": "I have been admitted in London for business studies, what is required for visa?",
+    "answer": "To apply for a visa, you'll need to prove you have enough money to pay for your course and support yourself in the UK. For courses in London, you'll need \u00a31,529 per month (for up to 9 months). You must have this money for at least 28 days in a row, with the end date of the 28-day period within 31 days of the date you apply for your visa. Additionally, you'll need a Confirmation of Acceptance for Studies (CAS) from your education provider and may need to prove your knowledge of English, unless you're from a country exempt from this requirement.",
+    "confidence_score": 0.604
+  },
+  {
+    "query_id": "a6dad5a9",
+    "timestamp": "2025-12-05T17:44:54.262528",
+    "query": "I am a health care worker, I need to visit UK for work, what is the visa requirements",
+    "answer": "To qualify for a Health and Care Worker visa, you must: \n\u2022 be a qualified doctor, nurse, health professional or adult social care professional \n\u2022 work in an eligible health or social care job \n\u2022 work for a UK employer that\u2019s been approved by the Home Office \n\u2022 have a \u2018certificate of sponsorship\u2019 from your employer with information about the role you\u2019ve been offered in the UK \n\u2022 be paid a minimum salary - how much depends on the type of work you do \nYou must also have a confirmed job offer before you apply for your visa and be able to speak, read, write and understand English.",
+    "confidence_score": 0.7619
+  },
+  {
+    "id": "d657a042",
+    "timestamp": "2025-12-05T17:54:23.507908",
+    "query": "I am a electronics engineer, shifting to London for work, what are the requirements for visa?",
+    "answer": "As an electronics engineer shifting to London for work, you will need to apply for a Skilled Worker visa. The requirements for this visa include:\n\n1. Working for a UK employer that has been approved by the Home Office.\n2. Having a 'certificate of sponsorship' (CoS) from your employer with information about the role you've been offered in the UK.\n3. Doing a job that is on the list of eligible occupations (electronics engineering is likely to be on this list, but you should check to confirm).\n4. Being paid a minimum salary - the amount depends on the type of work you do and the date you got your CoS.\n5. Having a confirmed job offer before you apply for your visa.\n6. Being able to speak, read, write, and understand English.\n\nYou will need to apply online and provide your documents, including your CoS and proof of your qualifications and experience as an electronics engineer. You may also need to prove your identity and provide biometric data as part of the application process. \n\nYour visa can last for up to 5 years before you need to extend it, and you can apply to extend or update your visa when it expires or if you change jobs or employer. After 5 years, you may be able to apply to settle permanently in the UK.",
+    "confidence": 0.6097
+  },
+  {
+    "id": "ef2680d0",
+    "timestamp": "2025-12-05T17:55:14.668650",
+    "query": "Can I visit Canada for 2 months without visa?",
+    "answer": "As an Indian passport holder, you are required to apply for and receive a Canada visa to enter the country, regardless of the duration of your stay. Therefore, you cannot visit Canada for 2 months without a visa. You will need to apply for a temporary resident visa, such as a tourist visa, to enter Canada.",
+    "confidence": 0.5238
+  },
+  {
+    "id": "a396e32b",
+    "timestamp": "2025-12-05T18:08:45.320299",
+    "query": "I got admitted to UCLA to study law and I need to start in March, can I enter USA before that?",
+    "answer": "As a new student, you can enter the United States up to 30 days before the start date of your course of study. Since you need to start in March, you can enter the USA up to 30 days prior to your start date, which would be around the beginning of February.",
+    "confidence": 0.4979
+  },
+  {
+    "id": "53959156",
+    "timestamp": "2025-12-05T18:19:51.975064",
+    "query": "Am I eligible for H1 visa if my spouse has H1B visa?",
+    "answer": "The context provided does not mention H1 visa or H1B visa. It discusses UK visa requirements for marriage and civil partnership, as well as general information about US visitor visas. Therefore, I am unable to determine your eligibility for an H1 visa based on the provided context.",
+    "confidence": 0.4431
+  },
+  {
+    "id": "db7bfc66",
+    "timestamp": "2025-12-08T20:01:19.824127",
+    "query": "Am I eligible for my Canadian Visa, if my study permit is still in process?",
+    "answer": "According to the context provided, there is no direct information that addresses your eligibility for a Canadian Visa while your study permit is still in process. The context primarily discusses study permit conditions, exemptions, and requirements. It does not mention the relationship between a pending study permit application and eligibility for a Canadian Visa. Therefore, based on the provided context, I cannot determine your eligibility for a Canadian Visa.",
+    "confidence": 0.7196
+  },
+  {
+    "id": "a4f6d6c7",
+    "timestamp": "2025-12-08T20:02:01.840717",
+    "query": "Am I eligible for my Visa if my study permit was rejected?",
+    "answer": "According to the context provided, if your study permit was rejected or if you didn't meet your study permit conditions, you might have to wait 6 months before you can apply for a new study permit (or for a visitor visa or work permit in Canada). Additionally, the outcome of any future applications you submit could be impacted. However, it does not explicitly state that you are ineligible for a visa. It is recommended to review the specific details of your rejection and the requirements for your desired visa to determine your eligibility.",
+    "confidence": 0.5971
+  },
+  {
+    "id": "a738864d",
+    "timestamp": "2025-12-08T20:06:29.261599",
+    "query": "I am planning to move to UK and start a bakery, what will be the visa requirements?",
+    "answer": "The provided context does not mention visa requirements for starting a bakery in the UK. The context only discusses visit visas, Skilled Worker visas, and Health and Care Worker visas. To determine the visa requirements for starting a bakery, you would need to refer to a different section of the UK Visa guidelines, possibly related to business or entrepreneur visas, which is not provided in the given context.",
+    "confidence": 0.51
+  },
+  {
+    "id": "37c67541",
+    "timestamp": "2025-12-08T20:06:52.796429",
+    "query": "I am starting a business, so what will the requirements be?",
+    "answer": "As a Visa Officer, I can see that you are starting a business and would like to apply for a Canada Business Visa. The requirements for a Canada Business Visa are as follows:\n\n* Original passport valid for at least 6 months with minimum 2 blank pages. The passport must be issued less than 10 years ago.\n* Online application and family information form.\n* Two passport size photos with white background and 80% face visible.\n* Original covering letter on company letterhead signed and stamped with purpose of travel, designation, passport details and date of travel.\n* Invitation letter from invitee company with purpose of travel, designation, passport details and date of travel.\n* Financial documents (although the specific financial documents required are not listed on this page, I can refer to Page 2 of the Canada Visa.pdf which lists the financial documents required for a Canada Tourist Visa, which may also be applicable to a Business Visa). \n\nAdditionally, since you are self-employed, you may also need to provide a Certificate of Incorporation.",
+    "confidence": 0.3979
+  },
+  {
+    "id": "d8552588",
+    "timestamp": "2025-12-08T20:07:02.170876",
+    "query": "No in the UK",
+    "answer": "It seems like you're asking if surrogacy is allowed in the UK. According to the context provided, there is no provision in the rules for a woman to be allowed into the UK for the purpose of being a surrogate mother. Admission for private medical treatment is not appropriate since the applicant would not be suffering from any medical condition. Any application from a woman to enter the UK to act as a surrogate should normally be refused on the grounds that there is no provision in the rules.",
+    "confidence": 0.329
+  }
+]

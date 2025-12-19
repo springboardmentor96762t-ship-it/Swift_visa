@@ -1,0 +1,37 @@
+{
+  "3843f1d6": {
+    "id": "3843f1d6",
+    "title": "New Chat",
+    "created_at": "2025-12-12T17:51:32.117013",
+    "messages": []
+  },
+  "c5722e1d": {
+    "id": "c5722e1d",
+    "title": "I am shifting to London and I am a surgeon what ar",
+    "created_at": "2025-12-12T18:04:03.641167",
+    "messages": [
+      {
+        "role": "user",
+        "content": "I am shifting to London and I am a surgeon what are the requirements for VISA?",
+        "timestamp": "2025-12-12T18:04:43.206990"
+      },
+      {
+        "role": "assistant",
+        "content": "As a surgeon, you have two main options for a visa: a Health and Care Worker visa or a Skilled Worker visa. \n\nFor a Health and Care Worker visa, you must:\n* Be a qualified doctor\n* Work for a UK employer approved by the Home Office\n* Have a 'certificate of sponsorship' from your employer\n* Be paid a minimum salary\n* Have a confirmed job offer before applying for the visa\n* Be able to speak, read, write, and understand English\n\nFor a Skilled Worker visa, you must:\n* Work for a UK employer approved by the Home Office\n* Have a 'certificate of sponsorship' from your employer\n* Do a job that's on the list of eligible occupations\n* Be paid a minimum salary\n* Have a confirmed job offer before applying for the visa\n* Be able to speak, read, write, and understand English\n\nYou can apply for either visa online, and you'll need to provide documents and prove your identity as part of the application process. The decision on your visa application usually takes 3 weeks if you're outside the UK, and 8 weeks if you're inside the UK.",
+        "confidence": 0.6166864633560181,
+        "timestamp": "2025-12-12T18:04:44.775955"
+      },
+      {
+        "role": "user",
+        "content": "What will be the requirements for my spouse?",
+        "timestamp": "2025-12-12T18:05:14.530063"
+      },
+      {
+        "role": "assistant",
+        "content": "I don't have that information based on the available documents. The provided context only discusses visa requirements for visiting the UK to marry or enter a civil partnership, and for student visas, but does not mention the requirements for a spouse of a surgeon or a skilled worker.",
+        "confidence": 0.4073648750782013,
+        "timestamp": "2025-12-12T18:05:15.233112"
+      }
+    ]
+  }
+}
