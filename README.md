@@ -110,14 +110,19 @@ Note: This process may take a few minutes depending on the number and size of yo
 
 ---
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
 
 ---
 
-✍️ Authors
+## ✍️ Authors
 Shambhavi Raj
 
 ---
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+<br>
+<p align="center">
+  <sub><strong>Made with ❤️ by Shambhavi</strong></sub><br>
