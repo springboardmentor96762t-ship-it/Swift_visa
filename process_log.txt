@@ -1,0 +1,36 @@
+2025-11-20 20:20:25,068 - INFO - STEP 1: Loading PDFs started
+2025-11-20 20:20:25,069 - INFO - Loading PDF: UK VISA.pdf
+2025-11-20 20:20:25,073 - INFO - Extracting Page 1 from UK VISA.pdf
+2025-11-20 20:20:25,150 - INFO - Extracting Page 2 from UK VISA.pdf
+2025-11-20 20:20:25,196 - INFO - Completed UK VISA.pdf | Extracted length = 2869 characters
+2025-11-20 20:20:25,196 - INFO - Loading PDF: USA VISA.pdf
+2025-11-20 20:20:25,199 - INFO - Extracting Page 1 from USA VISA.pdf
+2025-11-20 20:20:25,264 - INFO - Extracting Page 2 from USA VISA.pdf
+2025-11-20 20:20:25,296 - INFO - Completed USA VISA.pdf | Extracted length = 1790 characters
+2025-11-20 20:20:25,296 - INFO - Loading PDF: CANADA VISA.pdf
+2025-11-20 20:20:25,299 - INFO - Extracting Page 1 from CANADA VISA.pdf
+2025-11-20 20:20:25,525 - INFO - Extracting Page 2 from CANADA VISA.pdf
+2025-11-20 20:20:25,553 - INFO - Completed CANADA VISA.pdf | Extracted length = 2450 characters
+2025-11-20 20:20:25,553 - INFO - Loading PDF: SCHENGEN VISA.pdf
+2025-11-20 20:20:25,556 - INFO - Extracting Page 1 from SCHENGEN VISA.pdf
+2025-11-20 20:20:25,610 - INFO - Completed SCHENGEN VISA.pdf | Extracted length = 1931 characters
+2025-11-20 20:20:25,611 - INFO - Loading PDF: AUSTRALIA VISA.pdf
+2025-11-20 20:20:25,612 - INFO - Extracting Page 1 from AUSTRALIA VISA.pdf
+2025-11-20 20:20:25,643 - INFO - Completed AUSTRALIA VISA.pdf | Extracted length = 1086 characters
+2025-11-20 20:20:25,643 - INFO - All PDFs loaded successfully!
+2025-11-20 20:20:25,643 - INFO - All PDFs Loaded
+2025-11-20 20:20:25,643 - INFO - STEP 2: Preprocessing started
+2025-11-20 20:20:25,643 - INFO - Starting preprocessing...
+2025-11-20 20:20:25,644 - INFO - Preprocessing completed | Original length: 10131, Clean length: 8760
+2025-11-20 20:20:25,646 - INFO - STEP 3: Chunking started
+2025-11-20 20:20:25,646 - INFO - Chunking text | Chunk size=500, Overlap=100
+2025-11-20 20:20:25,646 - INFO - Total chunks created: 22
+2025-11-20 20:20:25,647 - INFO - STEP 4: Embeddings started
+2025-11-20 20:20:25,647 - INFO - Loading embedding model: all-MiniLM-L6-v2
+2025-11-20 20:20:25,722 - INFO - Use pytorch device_name: cuda:0
+2025-11-20 20:20:25,722 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-20 20:20:31,412 - INFO - Embeddings created | Total vectors: 22, Dimension: 384
+2025-11-20 20:20:31,414 - INFO - STEP 5: Saving FAISS index started
+2025-11-20 20:20:31,414 - INFO - Creating FAISS index...
+2025-11-20 20:20:31,420 - INFO - FAISS index saved | File: visa_index.faiss, Dimension: 384, Vectors: 22
+2025-11-20 20:20:31,420 - INFO - FAISS index saved successfully

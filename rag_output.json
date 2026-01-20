@@ -1,0 +1,786 @@
+[
+  {
+    "profile": "applicant is from india",
+    "query": "documents required for schengan visa application?",
+    "decision": "** The provided context does not explicitly list the documents required for a \"Schengen visa application.\"",
+    "explanation": "** The term \"Schengen visa\" is not mentioned in the retrieved context. The context does, however, describe documentation for \"tourist/visitor C visas,\" which typically require:",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What is the maximum stay allowed on a visitor visa?",
+    "decision": "** The maximum stay allowed on a visitor visa is not explicitly mentioned in the provided context.",
+    "explanation": "**",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "Can a B\u20112 visa holder work in the U.S.?",
+    "decision": "** No, the provided context does not contain information on whether a B-2 visa holder can work in the U.S.",
+    "explanation": "** The retrieved context discusses various work visas for the U.S. such as H1B, L1, O1, and TN (Chunks 8, 9), as well as student and exchange visas like F, M, and J (Chunk 8). It also details visitor visa guidelines for the United Kingdom (Chunk 0, 27) and general visa categories for Ireland (Chunk 29). However, there is no mention of the B-2 visa, its purpose, or any permitted activities including work in the U.S. within the provided information.",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What documents are required for a B\u20111/B\u20112 visa interview?",
+    "decision": "** Yes",
+    "explanation": "**",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "Why must a visitor visa applicant show ties to their home country?",
+    "decision": "** Yes",
+    "explanation": "** A visitor visa applicant must demonstrate ties to their home country (such as employment, family, property, or studies) to establish their intention to return there after their visit.",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "How long must a passport be valid for a visitor visa?",
+    "decision": "** Found an answer.",
+    "explanation": "** For a visitor visa, a valid passport is generally required for 6 months beyond the intended stay.",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What financial proof is needed for a visitor visa?",
+    "decision": "** Yes, the context provides information on financial proof for a visitor visa.",
+    "explanation": "**",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "Can a visitor visa be used for medical treatment?",
+    "decision": "** Yes",
+    "explanation": "**",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What happens if someone violates U.S. immigration laws on a visitor visa?",
+    "decision": "** The provided context indicates that violating U.S. immigration laws on a visitor visa will lead to future ineligibility for U.S. visas, but it does not specify immediate consequences such as arrest, deportation, or fines at the time of the violation.",
+    "explanation": "**",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "Can a visitor visa be extended beyond 6 months?",
+    "decision": "** No",
+    "explanation": "** The provided context does not contain any information regarding the extension of a visitor visa beyond 6 months. The context primarily discusses Schengen visa rules, which allow stays of up to 90 days in any 180-day period, and general employment permits, but does not address visitor visa extensions for any duration.",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What is the difference between B\u20111 and B\u20112 visas?",
+    "decision": "** No, the provided context does not contain the answer to the question.",
+    "explanation": "** The retrieved chunks discuss general visa requirements, documents needed for various visas (including student visas like F1, M1, J1, and Canadian/Irish visas), and criteria like proof of funds and intent to return. However, none of the chunks define or differentiate between B-1 and B-2 visas.",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "How long is an H\u20111B visa valid?",
+    "decision": "** No",
+    "explanation": "** The provided context mentions H-1B visas as a type of work visa for specialty occupations (Chunk 8) but does not specify how long an H-1B visa is valid.",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What is the maximum stay allowed on a visitor visa?",
+    "decision": "** Insufficient information",
+    "explanation": "** The provided context mentions \"short-term and standard visitor visas\" and states that \"each with specific permitted activities and time limits.\" However, it does not specify what the maximum allowed stay is for any type of visitor visa.",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "Can a B\u20112 visa holder work in the U.S.?",
+    "decision": "** The provided context does not contain information about whether a B-2 visa holder can work in the U.S.",
+    "explanation": "** The retrieved chunks discuss various visa types and regulations, including UK visitor subcategories, Schengen visa rules (entry types, validity, documents), and Canadian visa eligibility criteria. While Chunk 4 mentions \"united states visa eligibility guidelines text version,\" the actual guidelines or specific details regarding the B-2 visa and its permitted activities (like working) are not present in any of the provided text.",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What documents are required for a B\u20111/B\u20112 visa interview?",
+    "decision": "** Yes",
+    "explanation": "**",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "Why must a visitor visa applicant show ties to their home country?",
+    "decision": "Yes",
+    "explanation": "A visitor visa applicant must show ties to their home country as evidence of their \"intention to return\" (Chunk 18, Chunk 20). This is important because overstaying in the Schengen area is not allowed (Chunk 18).",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "How long must a passport be valid for a visitor visa?",
+    "decision": "** The provided context does not specify how long a passport must be valid for a visitor visa in terms of a minimum duration (e.g., 3 or 6 months beyond the intended stay).",
+    "explanation": "** Chunk 21 states that \"visa validity cannot exceed passport expiry.\" While this indicates the passport must be valid for at least the duration of the visa, it does not provide a specific minimum validity period that the passport must have beyond the planned stay. Other chunks mention \"valid passport\" but do not quantify the required validity period.",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What financial proof is needed for a visitor visa?",
+    "decision": "** No, the provided context does not specify the financial proof needed for a visitor visa.",
+    "explanation": "** The retrieved chunks discuss financial requirements for student visas (Chunk 29), work visas (Chunks 9, 8), and general document requirements for Schengen visas including medical travel insurance (Chunk 19). However, none of the chunks detail the specific financial proof, such as bank statements or proof of funds, required for a generic \"visitor visa.\"",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "Can a visitor visa be used for medical treatment?",
+    "decision": "** No.",
+    "explanation": "** The provided context states that for visitor visas (specifically UK visitor visas, but the principle applies broadly to the concept of visitor visas mentioned), an applicant \"must be able to do only permitted activities for that visa class.\" The context does not list medical treatment as a permitted activity for a visitor visa. While \"schengen medical travel insurance\" is required for Schengen visas, this is a general insurance requirement for travel, not an indication that the visa itself is for the purpose of medical treatment.",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What happens if someone violates U.S. immigration laws on a visitor visa?",
+    "decision": "** The provided context does not contain information about what happens if someone violates U.S. immigration laws on a visitor visa.",
+    "explanation": "** The retrieved chunks discuss immigration rules and consequences primarily for the UK (Chunk 2) and the Schengen area (Chunks 18, 19, 21), mentioning concepts like breaching UK rules, being removed, overstaying in the Schengen area not being allowed, and invalid Schengen visas leading to penalties or bans. However, there is no mention of U.S. immigration laws or the specific repercussions for violating them on a U.S. visitor visa.",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "Can a visitor visa be extended beyond 6 months?",
+    "decision": "** The provided context does not contain information about whether a visitor visa can be extended beyond 6 months.",
+    "explanation": "** The retrieved context discusses requirements for visitor visas, such as having a valid passport generally 6 months beyond the intended stay (Chunk 6). It also outlines rules for other types of visas (student, work) and Schengen travel rules, including visa validity (e.g., max 90 days in 180 days for Schengen visas) (Chunk 21). However, none of the provided chunks address the possibility or conditions for extending a U.S. visitor visa beyond a specific duration like 6 months.",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What is the difference between B\u20111 and B\u20112 visas?",
+    "decision": "** No, the provided context does not contain the answer.",
+    "explanation": "** The retrieved chunks discuss Schengen travel rules, visa waiver programs, general visa ineligibility grounds, and specific rules for Indian nationals regarding Schengen visas. However, none of the chunks define or differentiate between B-1 and B-2 visas.",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What form must an F\u20111 student present?",
+    "decision": "** No",
+    "explanation": "** The provided context does not mention \"F-1 student\" or any specific forms an F-1 student must present. The chunks discuss various visa types (e.g., Irish long-stay D visa, Schengen visa, short-stay C visa, visa waiver program) and associated requirements or forms (e.g., Form I-130, I-140, I-864 for family-based sponsorship, ESTA authorization), but none of this information is linked to F-1 students.",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What is DS\u20112019 used for?",
+    "decision": "** The provided context does not mention what DS-2019 is used for.",
+    "explanation": "** The term \"DS-2019\" does not appear in any of the retrieved chunks. The context discusses documents like DS-160, passports, and various visa types (Schengen, F1, M1, J1, H1B, L1, O1, TN) but does not provide information about DS-2019.",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "Can dependents of F\u20111 students apply for visas?",
+    "decision": "** No.",
+    "explanation": "** The provided context discusses various visa types such as H1B, L1, O1, TN, Schengen, and tourist/visitor (C) visas. It also mentions \"spouses and partners of certain permit holders\" and \"dependants\" having specific rights or waiting periods in general terms, but it does not contain any information specifically regarding F-1 students or whether their dependents can apply for visas.",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What financial proof is required for student visas?",
+    "decision": "** Yes",
+    "explanation": "** For a long-term study D visa, financial proof includes showing proof of tuition payment, which is often required to be in full or at least 6,000.",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "Do student visa applicants need English proficiency?",
+    "decision": "** No.",
+    "explanation": "** The provided context, specifically the section detailing requirements for student visas (F1, M1, J1), lists various criteria such as financial ability to cover expenses, a valid passport, and not having violated immigration laws. It also mentions required documents like the DS160 confirmation page, visa fee receipt, and supporting evidence, but it does not mention English proficiency as a requirement for student visa applicants.",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "Can J\u20111 visas be used for internships?",
+    "decision": "** Yes",
+    "explanation": "** Chunk 8 explicitly states that \"j1 may include exchange categories like scholars, researchers, or interns.\"",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What is the difference between F\u20111 and M\u20111 visas?",
+    "decision": "** No, the provided context does not explain the difference between F-1 and M-1 visas.",
+    "explanation": "** The context mentions F-1 and M-1 visas in Chunk 6, stating: \"2. student visas f1, m1, j1 purpose for studyi\". This indicates that both are student visas with the purpose of studying. However, the context does not elaborate on any distinctions or differences between these two visa types.",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "Can F\u20112 dependents work in the U.S.?",
+    "decision": "** Cannot answer.",
+    "explanation": "** The provided context does not contain any information regarding F-2 dependents or their eligibility to work in the U.S. The chunks primarily discuss Schengen visa rules, travel requirements for the Schengen area, and general ineligibility grounds for U.S. visas, without mentioning specific dependent visa categories or work permissions.",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What is SEVP approval?",
+    "decision": "** No",
+    "explanation": "** The provided context does not contain any information about \"SEVP approval.\" The chunks discuss general visa eligibility, documentation, and rules for various countries (Canada, Schengen, US visitor visas, and student visas (F1, M1, J1) without defining or even mentioning SEVP.",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "Must student visa holders maintain a residence abroad?",
+    "decision": "** Yes",
+    "explanation": "** The retrieved context states: \"must maintain a residence abroad with no intention of permanent immigration.\" This requirement is listed in close proximity to the details about student visas (F1, M1, J1) and their associated categories and dependents, preceding the section on work visas.",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What is required for an H\u20111B visa application?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What is a Labor Condition Application (LCA)?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "Who qualifies for an L\u20111 visa?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "How long must someone work abroad to qualify for L\u20111?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What is an O\u20111 visa?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What fields qualify for O\u20111 extraordinary ability?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "Who can apply for a TN visa?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What countries are eligible for TN visas?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What degree is usually required for H\u20111B?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "Can O\u20111 visa holders bring dependents?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What form is required for family\u2011based petitions?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What is Form I\u2011140 used for?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What are EB\u20111 to EB\u20115 categories?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What is the Diversity Visa Lottery?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What medical exam is required for immigrant visas?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What is Form I\u2011864?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "Who can sponsor family\u2011based immigrant visas?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What criminal violations disqualify immigrant visa applicants?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What is the difference between family\u2011based and employment\u2011based visas?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "How does USCIS approve immigrant petitions?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "How long can someone stay under the Visa Waiver Program?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What is ESTA authorization?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "How many countries are in the VWP?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "Can VWP travelers work in the U.S.?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What type of passport is required for VWP?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What happens if someone overstays under VWP?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "Can VWP be used for medical treatment?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What is the maximum duration of VWP travel?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "Can VWP travelers extend their stay?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What is the difference between VWP and B\u20111/B\u20112 visas?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What criminal convictions make someone ineligible for a visa?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What is immigration fraud?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What happens if someone overstays a visa?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What is a public charge risk?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What health risks can disqualify visa applicants?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What is misrepresentation in visa applications?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What is Section 212 INA?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "Can drug convictions affect visa eligibility?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What is moral turpitude?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What security risks disqualify visa applicants?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "Compare F\u20111 and J\u20111 visa requirements.",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "Compare H\u20111B and L\u20111 visas.",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "Compare B\u20112 visa and Visa Waiver Program.",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "Compare EB\u20112 and EB\u20115 immigrant visas.",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "Compare O\u20111 and H\u20111B visas.",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "Compare family\u2011based and diversity visas.",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "Compare TN visa and H\u20111B visa.",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "Compare visitor visa and student visa.",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "Compare immigrant visa and nonimmigrant visa.",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "Compare VWP and immigrant visa pathways.",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "Can a student visa holder switch to a work visa?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "Can a visitor visa holder apply for a green card?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "Can an H\u20111B visa holder bring family?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "Can a J\u20111 intern apply for permanent residency?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "Can a TN visa holder become a U.S. citizen?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "Can a visitor visa holder attend a conference?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "Can an L\u20111 visa holder apply for EB\u20111?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "Can a Diversity Visa winner bring dependents?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "Can a VWP traveler apply for a student visa?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "Can an O\u20111 visa holder apply for EB\u20111?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What is DS\u2011160 used for?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What is MRV fee receipt?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What is Form I\u2011130?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What is Form I\u2011140?",
+    "decision": "** Insufficient Context",
+    "explanation": "** The provided context does not contain any information about Form I-140.",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What is Form I\u2011864?",
+    "decision": "** No, the context does not provide information about Form I-864.",
+    "explanation": "** The provided text snippets discuss various aspects of visa applications, required documents (like bank statements, passports, application forms), travel rules, and visa exemptions for different nationalities. However, none of the chunks mention or define \"Form I-864.\"",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What is DS\u20112019?",
+    "decision": "** I cannot answer the question.",
+    "explanation": "** The provided context does not contain any information about \"DS-2019\".",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What is Form I\u201120?",
+    "decision": "** No, the provided context does not contain information about Form I-20.",
+    "explanation": "** The retrieved context discusses Schengen visas, Irish visas (short-stay C and long-stay D), and related application requirements, validity periods, and necessary documents like passports and insurance. However, none of the chunks mention or define \"Form I-20.\"",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What is ESTA?",
+    "decision": "** No, the provided context does not contain information about ESTA.",
+    "explanation": "** The retrieved chunks discuss various visa types and immigration policies for different countries/regions (e.g., IRCC for Canada, Schengen Area, US visas like H1B/L1/O1/TN, D visas and employment permits for non-EU nationals, possibly Ireland given \"stamp 1, 2, 3, 4\"). However, none of the chunks define or even mention \"ESTA.\"",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What is a Labor Condition Application?",
+    "decision": "** No, the provided context does not contain an answer to the question.",
+    "explanation": "** The retrieved chunks discuss various aspects of visas, employment permits, and immigration policies (e.g., Schengen area rules, US tourist/student visas, employment permits for non-EU nationals, rights for spouses of permit holders). However, none of the chunks define or even mention a \"Labor Condition Application.\"",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "What is USCIS Policy Manual Volume 2?",
+    "decision": "** No, the provided context does not contain information about \"USCIS Policy Manual Volume 2.\"",
+    "explanation": "** The retrieved chunks mention \"USCIS\" in relation to approving petitions (Chunk 11) and discuss various immigration policies and visa types, but none of them define or describe \"USCIS Policy Manual Volume 2.\"",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "How long must a passport be valid for U.S. visas?",
+    "decision": "** No, the provided context does not contain the answer to how long a passport must be valid for U.S. visas.",
+    "explanation": "** The retrieved context discusses visa eligibility and requirements for the United Kingdom, Ireland, Schengen Area, and Canada (IRCC). While some chunks mention the need for a \"valid passport\" (e.g., Chunk 17 for Schengen visas), none specify the required validity period for *U.S. visas* specifically.",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "How many EB categories exist?",
+    "decision": "** No, the context does not contain the answer to how many EB categories exist.",
+    "explanation": "** The provided chunks discuss Irish residence permits and stamps, US visa ineligibility grounds, UK visitor visa subcategories, and US visitor (B1/B2) and student (F1, M1, J1) visas. None of the text refers to \"EB categories\" or employment-based visa categories for the US or any other country.",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "How many countries are eligible for DV Lottery?",
+    "decision": "** No, the information is not in the provided context.",
+    "explanation": "** The retrieved context discusses various visa types such as B2 (tourism), F1/M1/J1 (student), Schengen visas, and the Visa Waiver Program (VWP). Chunk 11 mentions the VWP is for \"nationals of 40 approved countries\" and also refers to \"selected individuals from underrepresented countries\" in a general sense, but it does not explicitly mention the Diversity Visa (DV) Lottery or specify the number of countries eligible for it.",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "How many countries are in the Visa Waiver Program?",
+    "decision": "** Yes",
+    "explanation": "** The retrieved context explicitly states: \"5. visa waiver program vwp for nationals of 40 approved countries.\" This directly answers the question.",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "How long must someone work abroad for L\u20111?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "How long can someone stay on a visitor visa?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "How long can someone stay under VWP?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "How long does USCIS take to approve petitions?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "How long is a student visa valid?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  },
+  {
+    "profile": "applicant is from india",
+    "query": "How long is an H\u20111B visa valid?",
+    "decision": "",
+    "explanation": "",
+    "confidence": ""
+  }
+]
